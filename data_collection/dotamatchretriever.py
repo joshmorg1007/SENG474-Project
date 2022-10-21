@@ -188,4 +188,7 @@ if __name__ == '__main__':
 
     db = client['seng-474']
     matches = db.match_data
-    main(matches)
+
+    while(True):
+        main(matches)
+        sleep(5400)
