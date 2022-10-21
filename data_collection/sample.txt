@@ -1,0 +1,664 @@
+{
+    "matches": [
+      {
+        "id": 6812136034,
+        "didRadiantWin": false,
+        "players": [
+          {
+            "isRadiant": true,
+            "heroId": 33,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 19,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 74,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 29,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 119,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 97,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 14,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 77,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 135,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 11,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          }
+        ]
+      },
+      {
+        "id": 6812135868,
+        "didRadiantWin": true,
+        "players": [
+          {
+            "isRadiant": true,
+            "heroId": 88,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 19,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 14,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 56,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 99,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 16,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 35,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 137,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 85,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 64,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          }
+        ]
+      },
+      {
+        "id": 6812133073,
+        "didRadiantWin": false,
+        "players": [
+          {
+            "isRadiant": true,
+            "heroId": 41,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 39,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 33,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 54,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 88,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 22,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 76,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 11,
+            "role": "CORE",
+            "lane": "JUNGLE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 73,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 59,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          }
+        ]
+      },
+      {
+        "id": 6812132953,
+        "didRadiantWin": true,
+        "players": [
+          {
+            "isRadiant": true,
+            "heroId": 37,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 73,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 70,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 4,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 95,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 33,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 14,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 77,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 8,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 64,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          }
+        ]
+      },
+      {
+        "id": 6812132011,
+        "didRadiantWin": false,
+        "players": [
+          {
+            "isRadiant": true,
+            "heroId": 128,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 77,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 8,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 22,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 82,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 136,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 70,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 23,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 88,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 13,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          }
+        ]
+      },
+      {
+        "id": 6812131862,
+        "didRadiantWin": true,
+        "players": [
+          {
+            "isRadiant": true,
+            "heroId": 42,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 103,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 83,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 27,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 11,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 13,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 31,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 40,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 8,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 14,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          }
+        ]
+      },
+      {
+        "id": 6812131625,
+        "didRadiantWin": true,
+        "players": [
+          {
+            "isRadiant": true,
+            "heroId": 42,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 49,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 101,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 7,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 85,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 136,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 128,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 80,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 100,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 17,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          }
+        ]
+      },
+      {
+        "id": 6812131602,
+        "didRadiantWin": true,
+        "players": [
+          {
+            "isRadiant": true,
+            "heroId": 113,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 40,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 28,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 70,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 16,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 44,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 110,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 30,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 137,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 46,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          }
+        ]
+      },
+      {
+        "id": 6812131396,
+        "didRadiantWin": true,
+        "players": [
+          {
+            "isRadiant": true,
+            "heroId": 113,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 97,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 128,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 54,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 101,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 83,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 136,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 21,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 17,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 70,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          }
+        ]
+      },
+      {
+        "id": 6812131377,
+        "didRadiantWin": true,
+        "players": [
+          {
+            "isRadiant": true,
+            "heroId": 85,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 54,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 74,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 120,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": true,
+            "heroId": 30,
+            "role": "LIGHT_SUPPORT",
+            "lane": "OFF_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 11,
+            "role": "CORE",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 105,
+            "role": "LIGHT_SUPPORT",
+            "lane": "MID_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 7,
+            "role": "HARD_SUPPORT",
+            "lane": "SAFE_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 100,
+            "role": "CORE",
+            "lane": "MID_LANE"
+          },
+          {
+            "isRadiant": false,
+            "heroId": 63,
+            "role": "CORE",
+            "lane": "OFF_LANE"
+          }
+        ]
+      }
+    ]
+}
