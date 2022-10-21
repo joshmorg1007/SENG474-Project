@@ -1,5 +1,6 @@
 import requests
 import json
+import os
 from gql import Client, gql
 
 from gql.dsl import DSLSchema, DSLQuery, dsl_gql

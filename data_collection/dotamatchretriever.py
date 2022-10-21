@@ -9,12 +9,12 @@ from stratz_api import query_stratz_api
 
 def initialize_apis():
     VALVE_API_KEY = os.getenv('VALVE_DOTA2_API_KEY')
-    if not API_KEY:
+    if not VALVE_API_KEY:
         raise NameError('No "VALVE_DOTA2_API_KEY" found in the system environment')
     api.set_api_key(VALVE_API_KEY)
 
 def initialize_database():
-    CONNECTION_STRING = os.genevn("COSMOS_CONNECTION_STRING")
+    CONNECTION_STRING = os.getenv("COSMOS_CONNECTION_STRING")
     if not CONNECTION_STRING:
         raise NameError('No "COSMOS_CONNECTION_STRING" found in the system environment')\
 
