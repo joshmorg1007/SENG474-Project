@@ -106,7 +106,7 @@ def sort_role_information(player_info):
 def process_match_data(parsed_matches, match_database):
     matches = parsed_matches['matches']
     for match in matches:
-        print(match)
+        #print(match)
         example = {}
         example['match_id'] =match['id']
         example['did_radiant_win'] = int(match['didRadiantWin'])
@@ -190,5 +190,6 @@ if __name__ == '__main__':
     matches = db.match_data
 
     while(True):
+	print("Number of examples in databse: " + str(matches.find().count())
         main(matches)
         sleep(5400)
