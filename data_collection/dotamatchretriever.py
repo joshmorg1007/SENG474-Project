@@ -133,7 +133,7 @@ def process_match_data(parsed_matches, match_database):
             print("invalid role information")
             continue
 
-        print("Inserting " + str(match['id']) + "to the database")
+        print("Inserting " + str(match['id']) + " to the database")
         match_database.insert_one(example)
 
 
@@ -190,5 +190,9 @@ if __name__ == '__main__':
     matches = db.match_data
     while(True):
         print("Number of examples in databse: " + str(matches.count_documents({})))
-        main(matches)
+        try:
+            main(matches)
+        except(requests.exceptions.HTTPError):
+            print("HTTPError Sleeping for 1 Hour")
+            sleep(3600)
         sleep(7200)
