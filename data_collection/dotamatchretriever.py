@@ -188,8 +188,7 @@ if __name__ == '__main__':
 
     db = client['seng-474']
     matches = db.match_data
-
     while(True):
-	print("Number of examples in databse: " + str(matches.find().count())
+        print("Number of examples in databse: " + str(matches.count_documents({})))
         main(matches)
-        sleep(5400)
+        sleep(7200)
