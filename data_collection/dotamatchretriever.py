@@ -194,5 +194,4 @@ if __name__ == '__main__':
             main(matches)
         except(requests.exceptions.HTTPError):
             print("HTTPError Sleeping for 1 Hour")
-            sleep(3600)
         sleep(7200)

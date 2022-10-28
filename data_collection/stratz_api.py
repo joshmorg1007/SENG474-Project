@@ -42,10 +42,10 @@ def query_stratz_api(matchids):
         f"\u007d\n"
     )
 
-    print(query_text)
+    #print(query_text)
 
     query = gql(query_text)
 
     result = client.execute(query)
-    print(result)
+    #print(result)
     return result
