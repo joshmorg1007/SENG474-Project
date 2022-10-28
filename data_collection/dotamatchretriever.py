@@ -190,8 +190,6 @@ if __name__ == '__main__':
     matches = db.match_data
     while(True):
         print("Number of examples in databse: " + str(matches.count_documents({})))
-        try:
-            main(matches)
-        except(requests.exceptions.HTTPError):
-            print("HTTPError Sleeping for 1 Hour")
+        main(matches)
+        print("HTTPError Sleeping for 1 Hour")
         sleep(7200)
