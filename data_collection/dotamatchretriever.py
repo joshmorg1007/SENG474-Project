@@ -23,6 +23,7 @@ def initialize_database():
 def check_validity(match_id):
     try:
         match_results = api.get_match_details(match_id)['result']
+        print("valid Match")
     except(requests.exceptions.HTTPError):
         print("HTTP Error when checking validity of match")
         return False
