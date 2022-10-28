@@ -195,5 +195,4 @@ if __name__ == '__main__':
     while(True):
         print("Number of examples in databse: " + str(matches.count_documents({})))
         main(matches)
-        print("HTTPError Sleeping for 1 Hour")
         sleep(7200)
