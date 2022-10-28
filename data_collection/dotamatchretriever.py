@@ -25,6 +25,7 @@ def check_validity(match_id):
         match_results = api.get_match_details(match_id)['result']
     except(requests.exceptions.HTTPError):
         print("HTTP Error when checking validity of match")
+        return False
     for player in match_results['players']:
         if player['leaver_status'] != 0:
             return False
