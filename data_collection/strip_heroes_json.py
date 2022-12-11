@@ -9,5 +9,5 @@ for hero_id, details in response.json().items():
 
 print(hero_lookup)
 
-with open('prediction_model/heroes.json', 'w') as output_file:
+with open('data_collection/heroes.json', 'w') as output_file:
     json.dump(hero_lookup, output_file, indent=4)

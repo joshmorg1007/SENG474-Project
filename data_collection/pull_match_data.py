@@ -9,12 +9,12 @@ def map_series_to_names(series):
     return new_series
 
 def map_ids_to_names(id):
-    with open("prediction_model/heroes.json", 'r') as json_file:
+    with open("data_collection/heroes.json", 'r') as json_file:
         hero_name_lookup_table = json.load(json_file)
         return hero_name_lookup_table[str(id)]
 
 def main():
-    with open("prediction_model/connection_string.txt") as file:
+    with open("data_collection/connection_string.txt") as file:
         connection_string = file.read()
 
         client = MongoClient(connection_string)
