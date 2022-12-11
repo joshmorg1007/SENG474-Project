@@ -2,3 +2,4 @@
 __pycache__
 connection_string.txt
 .venv
+matches.bson
