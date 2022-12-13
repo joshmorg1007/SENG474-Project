@@ -5,8 +5,10 @@ This repo contains the models and data collection scripts used in order to compl
 
 ##### Overview of the Repository #####
 data_collection\
-    convert_old_dataset.py -- script that takes the original .bson database file from the original paper and converts it to format that the jupyter notebook file containing the model information can read
-    dotamatchretreiver.py -- Main script uses the Valve API to get the most recent matches and calls the STRATZ API to parse the replay to extract aditional Role information
+    convert_old_dataset.py -- script that takes the original .bson database file from the original paper and converts it to format that the jupyter notebook file
+                              containing the model information can read
+    dotamatchretreiver.py -- Main script uses the Valve API to get the most recent matches and calls the STRATZ API to parse the replay to extract aditional Role
+                             information
     stratz_api.py -- helper script that contains the query structure for the STRATZ API
     strip_heroes_json.py -- Pulls the list of heroes from OpenDota github and creates a json map of hero id to localized name
 
